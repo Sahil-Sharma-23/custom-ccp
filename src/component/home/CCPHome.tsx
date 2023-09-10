@@ -17,7 +17,7 @@ const CCPHome = () => {
     // Uncomment below code to initialize CCP panel and subscribe to connect events
 
     // const ccpContainerDiv = document.getElementById("ccp-container")!;
-    // const instanceURL = "https://dev-safedent.my.connect.aws/ccp-v2";
+    // const instanceURL = "instance URL";
     // const instanceRegion = "us-east-1";
     // InitializeCCP(ccpContainerDiv, instanceURL, instanceRegion);
 
