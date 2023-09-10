@@ -1,0 +1,61 @@
+{
+  "name": "custom-ccp-ts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.14.1",
+    "@mui/material": "^5.14.3",
+    "@mui/styled-engine": "^5.13.2",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "@types/uuid": "^9.0.2",
+    "amazon-connect-chatjs": "^2.0.1",
+    "amazon-connect-streams": "^2.5.1",
+    "react": "^18.2.0",
+    "react-date-picker": "^10.5.0",
+    "react-dom": "^18.2.0",
+    "react-phone-input-2": "^2.15.1",
+    "react-scripts": "5.0.1",
+    "react-time-picker": "^6.5.0",
+    "react-timezone-select": "^2.1.2",
+    "styled-components": "^5.3.11",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.4.5",
+    "@types/react": "^18.2.16",
+    "@types/react-datepicker": "^4.15.0",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.1.6"
+  }
+}

@@ -1,0 +1,59 @@
+.container-numpad-page {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: space-between;
+  height: 85%;
+}
+
+.container-numpad {
+  text-align: center;
+}
+
+.bb {
+  border-bottom: 1px solid black;
+}
+
+.numpad-button {
+  height: 5rem;
+  width: 5rem;
+  font-size: 32px;
+}
+
+.container-number-pad-clear {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+  margin-top: .5rem;
+  height: 2.5rem;
+}
+
+.container-label-number-input {
+  display: flex;
+  gap: 1.5rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.container-phone-input {
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.container-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+}
+
+.container-button Button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 3rem;
+}

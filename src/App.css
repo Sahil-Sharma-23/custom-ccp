@@ -1,0 +1,4 @@
+/* Hide default CCP Panel */
+.ccp-container iframe {
+  display: none;
+}

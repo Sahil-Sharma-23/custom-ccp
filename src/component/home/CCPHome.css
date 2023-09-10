@@ -1,0 +1,8 @@
+.container-ccp {
+  height: 100vh;
+  width: 500px;
+}
+
+#ccp-container iframe {
+  display: none;
+}
